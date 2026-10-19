@@ -18,7 +18,6 @@ This project satisfies all requirements outlined in the Problem Statement:
 ## 2. Project Structure
 
 ```
-detrax/
 ├── data/
 │   ├── generate_data.py          # Synthetic dataset generator with edge cases
 │   └── house_prices.csv          # Generated CSV dataset (1,500 records)
@@ -33,7 +32,6 @@ detrax/
 ├── tests/
 │   ├── __init__.py
 │   └── test_cases.py             # Automated verification of test cases TC1-TC5
-├── explanation/                  # Comprehensive learning & interview preparation guides
 ├── main.py                       # CLI entry point (train, test, predict, demo)
 └── README.md                     # Official project submission documentation
 ```
